@@ -4,12 +4,15 @@ This project is built by request of a client that wants to catalogue UFOs sighti
 
 ## Results
 By entering the webpage we can see the front page of the 'UFO sightings' information
+
 <img width="945" alt="UFO-sightings" src="https://user-images.githubusercontent.com/83614893/159192690-36abf422-e394-40f9-bc48-dbecf31c7157.PNG">
 
 By scrolling down you can find the filter section which are:
+
 <img width="351" alt="filters" src="https://user-images.githubusercontent.com/83614893/159192806-d28e531c-efac-40d5-bed1-324192e4f339.png">
 
 Here the information that you are looking for can be entered and the list will filter accordingly appearing on the right side of the filter table. For example, if we search for UFO sightings with a shape 'light' this will be the result:
+
 <img width="1186" alt="example" src="https://user-images.githubusercontent.com/83614893/159192944-b5484d4a-3b31-4b8b-9f07-6d0978522175.png">
 
 ## Summary

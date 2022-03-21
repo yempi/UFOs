@@ -13,3 +13,6 @@ Here the information that you are looking for can be entered and the list will f
 <img width="1186" alt="example" src="https://user-images.githubusercontent.com/83614893/159192944-b5484d4a-3b31-4b8b-9f07-6d0978522175.png">
 
 ## Summary
+One drawback that can be found with this first version of the webpage can be that the filter section is not as robust as it can be, for example, if you add an extra space the key words will not give a result, or if there is someone that in state writes the full name this will not perform as is supposed to.
+
+For further development variations of the data can be included and also in the data filter there could be search by year instead of an exact date. 
